@@ -3,7 +3,9 @@
 
 
 //Multiply
-
+function Multiply(a,b) {
+    showResult()
+}
 
 //Substract
 
